@@ -31,9 +31,9 @@ Former UH-60 naval helicopter pilot and current Naval Aircraft Test & Evaluation
 ## Publications
 
 Google Scholar:
-([링크](https://scholar.google.com/citations?user=--PAAeAAAAAJ&hl=en&oi=ao))
+([link](https://scholar.google.com/citations?user=--PAAeAAAAAJ&hl=en&oi=ao))
 
 ## Videos
 
 YouTube:
-([링크](https://www.youtube.com/channel/UCkfK8OKbvtlz3jfgJcmo60Q))
+([link](https://www.youtube.com/channel/UCkfK8OKbvtlz3jfgJcmo60Q))
