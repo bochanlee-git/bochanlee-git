@@ -1,10 +1,13 @@
 # Bochan Lee, PhD
 
+# Bochan Lee, PhD
+
 ### Aerospace Engineering | Rotorcraft | VTOL Autonomy | Flight Dynamics | Flight Control
 
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue?logo=google-scholar)](YOUR_GOOGLE_SCHOLAR_URL)
 [![ORCID](https://img.shields.io/badge/ORCID-Profile-a6ce39?logo=orcid)](YOUR_ORCID_URL)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin)](YOUR_LINKEDIN_URL)
+[![Research Videos](https://img.shields.io/badge/Research%20Videos-YouTube-red?logo=youtube)](YOUR_YOUTUBE_URL)
 
 ---
 
