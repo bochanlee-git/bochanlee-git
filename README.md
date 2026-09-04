@@ -11,13 +11,14 @@
 
 ## Research Profile
 
-Aerospace engineer and researcher specializing in **rotorcraft flight dynamics, VTOL autonomy, flight control, and autonomous landing systems**.
+Aerospace engineer and **Navy helicopter pilot** with professional experience spanning **rotorcraft flight operations, aerospace research, and aircraft test & evaluation**.
 
-Ph.D. in Aerospace Engineering, **Texas A&M University, 2021**.
+Ph.D. in Aerospace Engineering from **Texas A&M University (2021)**, with research spanning the full aerospace development cycle—from **aircraft modeling and simulation to flight-test validation and autonomous flight technology**. Research focuses on rotorcraft flight dynamics, VTOL autonomy, flight control, and autonomous landing, with two granted U.S. patents addressing hover-capable aircraft and autonomous landing systems for vertical landing aircraft.
 
-Research and engineering experience spans rotorcraft flight-dynamics modeling, simulation, autonomous VTOL operations, computer vision, flight-control systems, and flight-test-based validation.
+First-hand experience in rotorcraft operations and aircraft test & evaluation provides a practical foundation for developing **reliable autonomous VTOL systems that connect simulation, flight testing, and real-world operational requirements**.
 
-Professional experience combines **aerospace research, rotorcraft flight operations, and aircraft test and evaluation**, providing a research perspective that connects theoretical development with real-world aircraft performance and operational requirements.
+**Research Focus:** Rotorcraft Flight Dynamics · VTOL Autonomy · Autonomous Landing · Flight Control · Computer Vision · Modeling & Simulation · Flight-Test Validation
+
 
 ---
 
