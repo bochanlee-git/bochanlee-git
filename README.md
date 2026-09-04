@@ -1,114 +1,81 @@
 # Bochan Lee, PhD
 
-### Aerospace Engineer | Rotorcraft & VTOL Autonomy | Flight Dynamics | Flight Control
+### Aerospace Engineering | Rotorcraft | VTOL Autonomy | Flight Dynamics | Flight Control
 
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue?logo=google-scholar)](YOUR_GOOGLE_SCHOLAR_URL)
 [![ORCID](https://img.shields.io/badge/ORCID-Profile-a6ce39?logo=orcid)](YOUR_ORCID_URL)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin)](YOUR_LINKEDIN_URL)
-[![YouTube](https://img.shields.io/badge/YouTube-Research%20Videos-red?logo=youtube)](YOUR_YOUTUBE_URL)
 
 ---
 
-## About Me
+## Research Profile
 
-I am an aerospace engineer and researcher specializing in **rotorcraft flight dynamics, VTOL autonomy, flight control, and autonomous landing systems**.
+Aerospace engineer and researcher specializing in **rotorcraft flight dynamics, VTOL autonomy, flight control, and autonomous landing systems**.
 
-I received my **Ph.D. in Aerospace Engineering from Texas A&M University in 2021**, where my research focused on rotorcraft flight dynamics and simulation.
+Ph.D. in Aerospace Engineering, **Texas A&M University, 2021**.
 
-My research interests lie at the intersection of:
+Research and engineering experience spans rotorcraft flight-dynamics modeling, simulation, autonomous VTOL operations, computer vision, flight-control systems, and flight-test-based validation.
 
-- Rotorcraft flight dynamics
-- VTOL aircraft and UAV autonomy
-- Autonomous landing systems
-- Vision-based guidance and control
-- Flight control systems
-- Maritime UAV operations
-- Flight-test and simulation-based validation
-- AI and machine learning for aerospace systems
-
-I also have extensive operational experience as a **UH-60 helicopter pilot** and currently serve as a **Naval Aircraft Test & Evaluation Officer**, providing a unique perspective connecting aerospace research, flight operations, and real-world flight testing.
+Professional experience combines **aerospace research, rotorcraft flight operations, and aircraft test and evaluation**, providing a research perspective that connects theoretical development with real-world aircraft performance and operational requirements.
 
 ---
 
-## Research Focus
+## Research Areas
 
-My long-term research goal is to develop **reliable autonomous flight systems that can transition from simulation to real-world flight operations**.
+### Rotorcraft Flight Dynamics & Simulation
 
-### 1. Rotorcraft Flight Dynamics
+* Rotorcraft aerodynamic and flight-dynamics modeling
+* Aircraft trim and stability analysis
+* Dynamic response analysis
+* Flight-dynamics simulation
+* System identification
+* Flight-test data analysis
+* Model validation
 
-Development and validation of high-fidelity rotorcraft simulation and flight-dynamics models.
+### VTOL & UAV Autonomy
 
-**Key work:**
-- Rotorcraft aerodynamic modeling
-- Flight-dynamics simulation
-- Aircraft trim and stability analysis
-- Control-system modeling
-- Flight-test data analysis
-- Model validation using real flight data
+* Autonomous VTOL systems
+* UAV guidance and navigation
+* Autonomous flight operations
+* Autonomous recovery and landing
+* Dynamic-environment navigation
+* Maritime VTOL operations
 
----
+### Autonomous Landing
 
-### 2. Autonomous VTOL Systems
+* Autonomous ship landing
+* Moving-platform landing
+* Landing trajectory generation
+* Relative motion estimation
+* Visual landing-pad detection
+* Guidance and control for autonomous recovery
 
-Research on autonomous flight technologies for helicopters and VTOL UAVs operating in complex environments.
+### Computer Vision for Flight
 
-**Areas of interest:**
-- Autonomous guidance and navigation
-- Autonomous landing
-- Dynamic target tracking
-- Vision-based navigation
-- UAV flight control
-- Maritime VTOL operations
+* Vision-based target detection
+* Target tracking
+* Image processing
+* Feature extraction
+* Relative position estimation
+* Vision-based guidance
 
----
+### Flight Control
 
-### 3. Autonomous Ship Landing
+* Aircraft guidance and control
+* Flight-control system development
+* Autonomous guidance
+* Adaptive control
+* Learning-based control
+* Robust control under uncertainty
 
-Research on autonomous landing of VTOL aircraft on moving maritime platforms.
+### AI & Machine Learning for Aerospace
 
-The research addresses the challenges associated with:
-
-- Moving landing platforms
-- Visual target detection
-- Relative motion estimation
-- Guidance and control
-- Landing trajectory generation
-- Robust autonomous decision-making
-
-This work has also resulted in **U.S. patent activity related to autonomous ship landing methods**.
-
----
-
-### 4. Computer Vision for Flight
-
-Application of computer vision to autonomous VTOL operations.
-
-**Technologies include:**
-- OpenCV
-- Image processing
-- Visual target detection
-- Feature extraction
-- Relative pose estimation
-- Vision-based guidance
-
-The ultimate objective is to enable aircraft to perceive their environment and autonomously determine safe flight and landing trajectories.
-
----
-
-### 5. AI & Learning-Based Flight Control
-
-Exploration of artificial intelligence and machine learning methods for aerospace control systems.
-
-Areas of interest include:
-
-- Reinforcement learning
-- Learning-based control
-- Adaptive flight control
-- AI-assisted guidance
-- Autonomous decision-making
-- Simulation-based training of autonomous agents
-
-The focus is on applying AI where it can provide measurable improvements in **robustness, adaptability, and autonomy** rather than using AI as an end in itself.
+* Reinforcement learning
+* Learning-based flight control
+* AI-assisted guidance
+* Autonomous decision-making
+* Simulation-based training
+* Intelligent aerospace systems
 
 ---
 
@@ -116,94 +83,122 @@ The focus is on applying AI where it can provide measurable improvements in **ro
 
 ## TRAC — Texas A&M Rotorcraft Flight Dynamics Analysis Code
 
-**TRAC** is a rotorcraft flight-dynamics simulation framework developed for analyzing helicopter flight characteristics and control responses.
+**TRAC** is a rotorcraft flight-dynamics simulation framework developed for the analysis of helicopter flight characteristics, aircraft dynamics, and control responses.
 
-The framework was developed during my doctoral research at Texas A&M University and has been **validated using U.S. Army UH-60 flight-test data**.
+The framework originated from doctoral research at Texas A&M University and was **validated using U.S. Army UH-60 flight-test data**.
 
-### Capabilities
+### Research Capabilities
 
-- Rotorcraft flight-dynamics simulation
-- Trim analysis
-- Flight-condition analysis
-- Dynamic response analysis
-- Flight-test data comparison
-- Model validation
+* Rotorcraft flight-dynamics simulation
+* Aircraft trim analysis
+* Stability and response analysis
+* Flight-condition analysis
+* Flight-test data comparison
+* Simulation-to-flight validation
 
-### Technology
+### Technical Focus
 
-`Python` `Flight Dynamics` `Rotorcraft Modeling` `Flight-Test Data`
+`Python` · `Rotorcraft Dynamics` · `Simulation` · `Flight-Test Data` · `Model Validation`
 
-> **Status:** Research framework / ongoing development
-
-[View TRAC Repository](./TRAC)
+**Repository:** `TRAC`
+**Status:** Research framework / ongoing development
 
 ---
 
-## Vision-Based Autonomous Ship Landing
+## Autonomous Ship Landing
 
-A research framework for autonomous landing of VTOL aircraft on maritime platforms using computer vision and flight-control techniques.
+Research framework for autonomous landing of VTOL aircraft on **moving maritime platforms**.
+
+The research addresses the integration of computer vision, relative-motion estimation, guidance, and flight control for autonomous aircraft recovery.
 
 ### Research Components
 
-- Visual landing-pad detection
-- Target tracking
-- Relative position estimation
-- Guidance generation
-- Autonomous flight control
-- Landing trajectory management
+* Visual landing-platform detection
+* Target tracking
+* Relative position estimation
+* Guidance generation
+* Autonomous flight control
+* Landing trajectory management
+* Dynamic-platform compensation
 
-### Technology
+### Technical Focus
 
-`Python` `OpenCV` `Computer Vision` `VTOL` `Autonomous Landing`
+`Python` · `OpenCV` · `Computer Vision` · `VTOL` · `Autonomous Landing`
 
-> **Status:** Research project / ongoing development
-
-[View Project](./autonomous-ship-landing)
-
----
-
-## Maritime UAV Autonomy
-
-Research on autonomous operation of VTOL UAVs in maritime environments.
-
-The project focuses on the challenges associated with operating autonomous aircraft around:
-
-- Moving vessels
-- Dynamic landing platforms
-- Limited visual references
-- Wind and atmospheric disturbances
-- Ship motion
-- Autonomous recovery and landing
-
-> **Status:** Research framework / ongoing development
+**Repository:** `autonomous-ship-landing`
+**Status:** Research project / ongoing development
 
 ---
 
-## Flight-Test Validation
+## Maritime VTOL Autonomy
 
-One of my primary research interests is closing the gap between **simulation and real-world aircraft operation**.
+Research direction focused on autonomous operation of VTOL aircraft in maritime environments.
 
-My experience combines:
+Particular challenges include:
 
-**Simulation → Modeling → Control Design → Flight Testing → Data Analysis → Model Validation**
+* Moving landing platforms
+* Ship motion
+* Wind and atmospheric disturbances
+* Limited visual references
+* Dynamic relative motion
+* Autonomous recovery
 
-This approach allows research algorithms to be evaluated not only in simulation but also against real aircraft behavior and flight-test data.
+The long-term objective is to develop reliable autonomy for VTOL aircraft operating from ships and other constrained maritime platforms.
+
+**Repository:** `maritime-vtol-autonomy`
+**Status:** Research direction / ongoing development
 
 ---
 
-# Technical Skills
+## Flight-Test-Based Validation
 
-### Aerospace & Flight Dynamics
+A central component of the research approach is the connection between **simulation and real aircraft behavior**.
 
-`Rotorcraft` `VTOL` `UAV` `Flight Dynamics` `Flight Control`
+The research workflow emphasizes:
 
-`Aircraft Modeling` `Simulation` `Flight Testing` `System Identification`
+```text
+Real-World Problem
+        ↓
+Mathematical Modeling
+        ↓
+Simulation
+        ↓
+Algorithm / Controller Development
+        ↓
+High-Fidelity Testing
+        ↓
+Flight-Test Validation
+        ↓
+Operational Application
+```
+
+This approach is intended to reduce the gap between research prototypes demonstrated in simulation and systems that must operate reliably under real-world uncertainty and operational constraints.
+
+---
+
+# Technical Expertise
+
+### Aerospace Engineering
+
+`Rotorcraft` · `VTOL` · `UAV` · `Flight Dynamics` · `Flight Control`
+
+`Aircraft Modeling` · `Simulation` · `System Identification`
+
+`Flight Testing` · `Flight-Test Data Analysis`
 
 ### Autonomous Systems
 
-`Autonomous Landing` `Guidance` `Navigation`
+`Autonomous Landing` · `Guidance` · `Navigation`
 
-`Computer Vision` `Target Tracking` `Relative Motion Estimation`
+`Target Tracking` · `Relative Motion Estimation`
+
+`Vision-Based Navigation` · `Autonomous Recovery`
+
+### Programming & Simulation
+
+`Python` · `C/C++` · `OpenCV` · `Gazebo`
+
+`Numerical Simulation` · `Data Analysis`
 
 ### AI / Machine Learning
 
@@ -211,33 +206,194 @@ This approach allows research algorithms to be evaluated not only in simulation 
 
 `Learning-Based Control`
 
-`AI-Assisted Flight Control`
+`AI-Assisted Guidance`
 
-### Programming & Simulation
-
-`Python` `C/C++` `OpenCV` `Gazebo`
-
-`Numerical Simulation` `Data Analysis`
+`Autonomous Decision-Making`
 
 ---
 
-# Research Philosophy
+# Research Approach
 
-I am particularly interested in research that connects **theory, simulation, and real-world flight operations**.
+Research interests are centered on the development of **reliable autonomous flight systems capable of operating in dynamic and uncertain environments**.
 
-My research workflow generally follows:
+Particular emphasis is placed on connecting:
 
-```text
-Real-World Problem
-       ↓
-Mathematical Modeling
-       ↓
-Simulation
-       ↓
-Algorithm / Controller Development
-       ↓
-High-Fidelity Testing
-       ↓
-Flight-Test Validation
-       ↓
-Operational Application
+**Theory → Modeling → Simulation → Experimentation → Flight Testing → Validation**
+
+rather than treating simulation performance as the final measure of system capability.
+
+The combination of aerospace research, operational flight experience, and aircraft test and evaluation provides a multidisciplinary perspective on the development and assessment of autonomous flight technologies.
+
+---
+
+# Selected Achievements
+
+### Ph.D. in Aerospace Engineering
+
+**Texas A&M University — 2021**
+
+Research focused on rotorcraft flight dynamics, simulation, and autonomous flight-related applications.
+
+---
+
+### U.S. Patent Activity
+
+Inventor / co-inventor on U.S. patent work related to:
+
+**Autonomous Ship Landing Methods**
+
+The intellectual-property work addresses autonomous VTOL operations involving maritime landing platforms.
+
+---
+
+### Robert L. Lichten Award
+
+Recognition for aerospace research presented to **Bell** headquarters.
+
+---
+
+### Boeing GoFly Challenge
+
+Member of **Team Harmony** in the Boeing GoFly Challenge.
+
+Team Harmony was selected as a winner in **Phase I and Phase II** of the competition.
+
+---
+
+### Flight Operations & Aircraft Test and Evaluation
+
+Professional aviation experience includes:
+
+* UH-60 helicopter operations
+* Rotorcraft flight operations
+* Aircraft test and evaluation
+* Naval aviation systems assessment
+* Operational requirements analysis
+
+This experience provides direct exposure to the relationship between aircraft design, flight characteristics, system performance, and operational requirements.
+
+---
+
+# Publications
+
+Research publications address topics including:
+
+* Rotorcraft flight dynamics
+* Helicopter simulation
+* Autonomous VTOL systems
+* Autonomous landing
+* Flight control
+* UAV systems
+* Maritime aviation
+* Aircraft modeling and validation
+
+### Research Profiles
+
+**Google Scholar:** [Publications](YOUR_GOOGLE_SCHOLAR_URL)
+
+**ORCID:** [ORCID Profile](YOUR_ORCID_URL)
+
+---
+
+# Research Demonstrations
+
+Selected demonstrations and technical materials may include:
+
+* Autonomous VTOL / ship landing
+* Rotorcraft simulation
+* Flight-control research
+* UAV autonomy
+* Computer-vision-based flight
+* Research presentations
+
+**Research demonstrations:** [YouTube](YOUR_YOUTUBE_URL)
+
+---
+
+# Future Research Directions
+
+### Autonomous Rotorcraft
+
+Development of autonomous flight systems capable of operating safely in uncertain and dynamic environments.
+
+### Maritime VTOL Autonomy
+
+Autonomous landing and recovery of VTOL aircraft on moving ships and maritime platforms.
+
+### Vision-Based Flight Control
+
+Integration of computer vision, state estimation, guidance, and control for autonomous aircraft.
+
+### Learning-Based Aerospace Control
+
+Investigation of reinforcement learning and other machine-learning approaches for adaptive and robust aerospace control.
+
+### Simulation-to-Flight Transfer
+
+Development of methodologies that allow autonomous-flight algorithms developed in simulation to transition reliably to real aircraft.
+
+### Human-Autonomy Integration
+
+Investigation of how autonomous systems can support pilots and operators while maintaining appropriate levels of human oversight and system reliability.
+
+---
+
+# Research Vision
+
+The long-term research direction is the development of **intelligent, reliable, and flight-test-validated autonomous VTOL systems**.
+
+Key capabilities include:
+
+1. Environmental perception
+2. Aircraft state estimation
+3. Relative-motion estimation
+4. Dynamic-environment understanding
+5. Safe trajectory generation
+6. Autonomous guidance and control
+7. Adaptation to uncertainty and disturbances
+8. Flight-test validation
+9. Operational deployment
+
+The overarching objective is to bridge:
+
+> **Aerospace Engineering ↔ Autonomous Systems ↔ Flight Testing ↔ Real-World Operations**
+
+---
+
+# Collaboration
+
+Research collaboration is particularly relevant in the following areas:
+
+* Rotorcraft flight dynamics
+* VTOL autonomy
+* UAV systems
+* Autonomous landing
+* Computer vision
+* Flight control
+* AI / ML for aerospace
+* Flight-test validation
+* Maritime aviation
+* Autonomous aircraft systems
+
+---
+
+# Contact
+
+**Bochan Lee, PhD**
+
+Aerospace Engineering
+Rotorcraft · VTOL Autonomy · Flight Dynamics · Flight Control
+
+📧 Email: YOUR_EMAIL
+
+🔗 [LinkedIn](YOUR_LINKEDIN_URL)
+
+📚 [Google Scholar](YOUR_GOOGLE_SCHOLAR_URL)
+
+🆔 [ORCID](YOUR_ORCID_URL)
+
+---
+
+<p align="center">
+  <i>Rotorcraft · Autonomy · Flight Dynamics · Flight Testing</i>
+</p>
