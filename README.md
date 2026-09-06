@@ -135,7 +135,7 @@ The framework addresses rotorcraft modeling, trim analysis, dynamic response, an
 * Simulation-to-flight validation
 
 **Technical Focus:**
-`Python` · `Rotorcraft Dynamics` · `Simulation` · `Flight-Test Data` · `Model Validation`
+`MATLAB` · `Rotorcraft Dynamics` · `Simulation` · `Flight-Test Data` · `Model Validation`
 
 **Project:** `TRAC`
 
