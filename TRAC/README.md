@@ -144,28 +144,28 @@ This validation approach is particularly important for rotorcraft because aerody
 TRAC was developed as part of a broader model-based research workflow:
 
 ```text
-Rotorcraft Physics
-       │
-       ▼
-Mathematical Modeling
-       │
-       ▼
-TRAC Implementation
-       │
-       ▼
-Trim Analysis
-       │
-       ▼
-Dynamic Simulation
-       │
-       ▼
-Flight-Test Validation
-       │
-       ▼
-Flight-Control Development
-       │
-       ▼
-Autonomous Flight
+                  Rotorcraft Physics
+                         │
+                         ▼
+                  Mathematical Modeling
+                         │
+                         ▼
+                  TRAC Implementation
+                         │
+                         ▼
+                  Trim Analysis
+                         │
+                         ▼
+                  Dynamic Simulation
+                         │
+                         ▼
+                  Flight-Test Validation
+                         │
+                         ▼
+                  Flight-Control Development
+                         │
+                         ▼
+                  Autonomous Flight
 ```
 
 This progression connects fundamental rotorcraft dynamics with advanced flight-control and autonomous-flight research.
@@ -299,24 +299,75 @@ The dissertation provides the broader academic context for the development and a
 
 ## Citation
 
-If you use TRAC, its modeling framework, or material derived from this repository in academic research, please cite my doctoral dissertation:
+TRAC was developed as part of my doctoral research at **Texas A&M University** and was formally documented through both a conference publication and my doctoral dissertation.
+
+If you use TRAC, its modeling framework, simulation methodology, or material derived from this repository in academic research, please cite the following publications.
+
+### Conference Publication
+
+The development and validation of TRAC are described in:
+
+> Lee, B., & Benedict, M. (2020). *Development and Validation of a Comprehensive Helicopter Flight Dynamics Code*. AIAA Scitech 2020 Forum, AIAA 2020-1644.
+
+**DOI:** [10.2514/6.2020-1644](https://doi.org/10.2514/6.2020-1644)
+
+**AIAA Paper:** [AIAA 2020-1644](https://arc.aiaa.org/doi/10.2514/6.2020-1644)
+
+This paper presents TRAC as a comprehensive helicopter flight-dynamics framework based on the UH-60. It describes the modular rotorcraft modeling architecture, trim analysis, validation using UH-60 flight-test data, linearized modeling, and application to autonomous ship-landing simulation.
+
+---
+
+### Doctoral Dissertation
+
+The broader development and application of TRAC are documented in my doctoral dissertation:
 
 > Lee, B. (2021). *On the Complete Automation of Vertical Flight Aircraft Ship Landing*. Doctoral dissertation, Texas A&M University.
+
+**Texas A&M University Repository:**
+[OAKTrust — Dissertation Record](https://oaktrust.library.tamu.edu/items/69434e7f-9334-41c7-9afa-150bc6f87c7b)
+
+**Full Dissertation:**
+[Download the Full Dissertation (PDF)](https://oaktrust.library.tamu.edu/server/api/core/bitstreams/caad5f3a-bca2-4aaf-8367-ef34715982b1/content)
+
+**Permanent Handle:**
+https://hdl.handle.net/1969.1/195166
+
+The dissertation documents the broader development of TRAC and its integration with flight-control, computer-vision, and autonomous ship-landing systems. The dissertation identifies TRAC as the **Texas A&M Rotorcraft Analysis Code**, developed as a modular rotorcraft flight-dynamics framework and validated using UH-60 flight-test data.
+
+---
 
 ### BibTeX
 
 ```bibtex
+@inproceedings{lee2020development,
+  author    = {Lee, Bochan and Benedict, Moble},
+  title     = {Development and Validation of a Comprehensive Helicopter Flight Dynamics Code},
+  booktitle = {AIAA Scitech 2020 Forum},
+  year      = {2020},
+  number    = {AIAA 2020-1644},
+  doi       = {10.2514/6.2020-1644}
+}
+
 @phdthesis{lee2021complete,
-  author = {Lee, Bochan},
-  title = {On the Complete Automation of Vertical Flight Aircraft Ship Landing},
-  school = {Texas A&M University},
-  year = {2021},
-  type = {Doctoral dissertation},
-  address = {College Station, Texas}
+  author  = {Lee, Bochan},
+  title   = {On the Complete Automation of Vertical Flight Aircraft Ship Landing},
+  school  = {Texas A&M University},
+  year    = {2021},
+  type    = {Doctoral dissertation},
+  address = {College Station, Texas},
+  url     = {https://hdl.handle.net/1969.1/195166}
 }
 ```
 
-For the complete academic context of TRAC and its application to autonomous rotorcraft operations, please refer to the dissertation.
+### Recommended Citation
+
+For research specifically using or extending the **TRAC framework**, please cite:
+
+> Lee, B., & Benedict, M. (2020). *Development and Validation of a Comprehensive Helicopter Flight Dynamics Code*. AIAA Scitech 2020 Forum, AIAA 2020-1644. https://doi.org/10.2514/6.2020-1644
+
+For research concerning the broader autonomous ship-landing system and its underlying modeling, simulation, and control framework, please also cite:
+
+> Lee, B. (2021). *On the Complete Automation of Vertical Flight Aircraft Ship Landing*. Doctoral dissertation, Texas A&M University. https://hdl.handle.net/1969.1/195166
 
 ---
 
