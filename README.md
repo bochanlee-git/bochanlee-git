@@ -29,6 +29,22 @@ The research approach connects **mathematical modeling, simulation, algorithm de
 
 ---
 
+# Education
+
+### Ph.D. in Aerospace Engineering
+**Texas A&M University — 2021**
+
+### M.S. in Aerospace Engineering
+**Texas A&M University — 2018**
+
+### B.S. in Operations Research
+**Republic of Korea Naval Academy — 2010**
+
+### B.S. in Military Studies
+**Republic of Korea Naval Academy — 2010**
+
+---
+
 # Research Areas
 
 ## Rotorcraft Flight Dynamics & Simulation
