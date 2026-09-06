@@ -192,7 +192,7 @@ The research philosophy emphasizes not only whether an algorithm performs well i
 # Research & Engineering Workflow
 
 <p align="center">
-  <img src="docs/images/research-workflow.png" width="900">
+  <img src="docs/img/research-workflow.png" width="900">
 </p>
 
 The research workflow emphasizes the transition from **real-world aerospace problems to validated engineering solutions**.
