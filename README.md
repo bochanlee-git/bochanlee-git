@@ -20,6 +20,23 @@
 
 ---
 
+## Research Portfolio
+
+### Accomplishments
+
+- 🚁 **TRAC** — Comprehensive Rotorcraft Flight Dynamics Modeling & Simulation
+- 🎯 **Vision-Based Autonomous Ship Landing** — Perception, Control & Flight-Test Validation
+- ✈️ **Harmony Aria** — Compact Electric VTOL / Boeing GoFly Prize
+- 📜 **U.S. Patents** — Autonomous Landing & Hover-Capable Aircraft
+
+### Current Research Direction
+
+- Next-Generation Rotorcraft Modeling
+- Intelligent VTOL Autonomy
+- Learning-Based Flight Control
+- Simulation-to-Flight Validation
+- Aircraft Test & Evaluation
+
 ## Research Profile
 
 **Bochan Lee, Ph.D.** is an aerospace engineer specializing in rotorcraft flight dynamics, autonomous VTOL systems, flight control, computer vision, reinforcement learning, and flight-test validation.
