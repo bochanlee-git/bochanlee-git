@@ -22,20 +22,22 @@
 
 ## Research Portfolio
 
-### Accomplishments
+### Selected Accomplishments
 
-- 🚁 **TRAC** — Comprehensive Rotorcraft Flight Dynamics Modeling & Simulation
-- 🎯 **Vision-Based Autonomous Ship Landing** — Perception, Control & Flight-Test Validation
-- ✈️ **Harmony Aria** — Compact Electric VTOL / Boeing GoFly Prize
-- 📜 **U.S. Patents** — Autonomous Landing & Hover-Capable Aircraft
+- TRAC — Rotorcraft Flight Dynamics & Simulation
+- Vision-Based Autonomous Ship Landing
+- Learning-Based Flight Control
+- Harmony Aria / Boeing GoFly Prize
+- U.S. Patents
 
-### Current Research Direction
+### Current & Future Research Directions
 
 - Next-Generation Rotorcraft Modeling
-- Intelligent VTOL Autonomy
-- Learning-Based Flight Control
+- Learning-Augmented Flight Dynamics & Control
+- Resilient VTOL Autonomy
 - Simulation-to-Flight Validation
 - Aircraft Test & Evaluation
+- Digital Engineering for Vertical Lift
 
 ## Research Profile
 
