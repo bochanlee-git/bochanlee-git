@@ -7,7 +7,10 @@
 <h1 align="center">Bochan Lee, Ph.D.</h1>
 
 <p align="center">
-  <strong>Rotorcraft Flight Dynamics · VTOL Autonomy · Flight Control · Flight Test & Evaluation</strong>
+  <strong>
+  Computational Aircraft Modeling · Flight Dynamics & Control · 
+  Autonomous VTOL Systems · Flight Test & Evaluation
+  </strong>
 </p>
 
 <p align="center">
@@ -15,431 +18,222 @@
 </p>
 
 <p align="center">
-  <a href="https://scholar.google.com/citations?user=--PAAeAAAAAJ&hl=en&oi=ao">Google Scholar</a>
+  <a href="https://scholar.google.com/citations?user=--PAAeAAAAAJ&hl=en&oi=ao">
+  Google Scholar
+  </a>
 </p>
 
 ---
 
-## Research Portfolio
+# Research Overview
 
-### Selected Accomplishments
+**Bochan Lee, Ph.D.** is an aerospace engineer specializing in computational aircraft modeling, rotorcraft flight dynamics, intelligent flight control, computer vision, autonomous VTOL systems, and flight-test validation.
 
-- TRAC — Rotorcraft Flight Dynamics & Simulation
-- Vision-Based Autonomous Ship Landing
-- Learning-Based Flight Control
-- Harmony Aria / Boeing GoFly Prize
-- U.S. Patents
+The research portfolio focuses on developing reliable and operationally relevant vertical-flight technologies by integrating:
 
-### Current & Future Research Directions
+**Aircraft Modeling → Dynamics → Control → Perception → Autonomy → Flight Validation**
 
-- Next-Generation Rotorcraft Modeling
-- Learning-Augmented Flight Dynamics & Control
-- Resilient VTOL Autonomy
-- Simulation-to-Flight Validation
-- Aircraft Test & Evaluation
-- Digital Engineering for Vertical Lift
-
-## Research Profile
-
-**Bochan Lee, Ph.D.** is an aerospace engineer specializing in rotorcraft flight dynamics, autonomous VTOL systems, flight control, computer vision, reinforcement learning, and flight-test validation.
-
-The research portfolio integrates **physics-based modeling, numerical simulation, intelligent control, experimental evaluation, and operational aviation experience** to develop autonomous vertical-flight technologies capable of transitioning from analytical models to real-world flight.
-
-Current professional responsibilities center on **naval aircraft test and evaluation**, supported by prior experience in unmanned-aircraft program management, operational aviation, and UH-60 helicopter flight operations.
-
-### Core Expertise
-
-`Rotorcraft Flight Dynamics` · `VTOL Autonomy` · `Flight Control` · `Computer Vision` · `Machine Learning` · `Reinforcement Learning` · `Flight Testing`
-
----
-
-# Featured Research
-
-## TRAC — Texas A&M University Rotorcraft Analysis Code
-
-<p align="center">
-  <img src="./assets/trac-overview.png"
-       alt="TRAC Rotorcraft Flight Dynamics and Simulation"
-       width="100%">
-</p>
-
-**TRAC** is a modular rotorcraft flight-dynamics modeling and simulation framework developed to connect comprehensive helicopter modeling with flight-control analysis, validation, and autonomous-flight simulation.
-
-A UH-60 helicopter serves as the baseline configuration. Major aircraft components are modeled independently and integrated into a complete nonlinear flight-dynamics framework.
-
-### Core Capabilities
-
-| Area | Capability |
-|---|---|
-| Rotorcraft Modeling | Main rotor, tail rotor, fuselage, horizontal tail, and vertical tail |
-| Trim Analysis | Hover, forward flight, climb/descent, and coordinated turning flight |
-| Flight Dynamics | Nonlinear dynamic response prediction |
-| Linearization | Linearized flight-dynamics models at multiple flight conditions |
-| Stability Analysis | Dynamic modes and eigenvalue analysis |
-| Simulation | Various helicopter flight maneuvers |
-| Control Integration | Integration of flight-control systems with the aircraft model |
-| Validation | Comparison with U.S. Army UH-60 flight-test data |
-| Autonomous Flight | Full-flight autonomous ship-landing simulation |
-
-The modular architecture allows individual aircraft components to be modified or replaced, enabling the investigation of different rotorcraft configurations without rebuilding the complete simulation framework.
-
-Validation against UH-60 flight-test data provides the foundation for extending the model from conventional flight-dynamics analysis to control-system development and autonomous-flight simulation.
-
-> **Code Availability**
->
-> The complete TRAC source code is not currently publicly released.  
-> Technical documentation, validation results, selected demonstrations, examples, and selected portions of the implementation will be released progressively.
-
-### [TRAC / Rotorcraft Flight Dynamics Repository](https://github.com/bochanlee-git/rotorcraft-flight-dynamics-sim)
-
----
-
-## Vision-Based Autonomous Ship Landing
-
-<p align="center">
-  <img src="./assets/vision-based-ship-landing.png"
-       alt="Vision-Based Autonomous Ship Landing"
-       width="100%">
-</p>
-
-**Vision-Based Autonomous Ship Landing** translates established naval helicopter ship-landing procedures into an integrated autonomous VTOL flight architecture.
-
-The system combines long-range machine-vision detection, close-range horizon-reference-bar tracking, relative navigation, nonlinear and learning-based control, moving-platform tracking, and real-world flight testing.
-
-### Autonomous Flight Architecture
-
-**Long-Range Ship Detection**  
-↓  
-**Horizon Reference Bar Detection**  
-↓  
-**Relative Position & Attitude Estimation**  
-↓  
-**Flight Guidance & Control**  
-↓  
-**Moving-Platform Tracking**  
-↓  
-**Autonomous Vertical Landing**
-
-### Research Components
-
-- monocular-camera-based relative navigation
-- machine-learning-based long-range ship detection
-- classical computer vision for horizon-reference-bar tracking
-- relative position and orientation estimation
-- gain-scheduled flight control
-- nonlinear control
-- deep reinforcement learning
-- disturbance-rejection control
-- six-degree-of-freedom moving-deck simulation
-- autonomous UAV flight testing
-- simulation-to-flight validation
-
-The research progressed from **rotorcraft modeling and full-flight simulation to onboard vision, autonomous control, moving-deck experiments, and flight-test demonstration**.
-
----
-
-# Selected Research & Engineering Highlights
-
-| Area | Highlight |
-|---|---|
-| Rotorcraft Flight Dynamics | Developer of the Texas A&M University Rotorcraft Analysis Code (TRAC) |
-| Autonomous Flight | Vision-based autonomous VTOL approach and ship-landing systems |
-| Flight Testing | Experimental validation of autonomous landing and disturbance-rejection systems |
-| Aircraft Test & Evaluation | Naval aircraft test and evaluation |
-| Operational Aviation | Former UH-60 helicopter pilot with maritime aviation experience |
-| Intellectual Property | Two granted U.S. aerospace patents |
-| Personal Air Vehicle | Boeing GoFly Prize Phase I and Phase II winning team |
-| Academic Recognition | VFS awards, fellowships, and Vertical Flight Foundation scholarships |
+Research combines physics-based modeling, numerical simulation, intelligent algorithms, experimental evaluation, and operational aviation experience to bridge the gap between analytical development and real-world flight systems.
 
 ---
 
 # Research Areas
 
-## Rotorcraft Flight Dynamics
+## Computational Aircraft Modeling
 
-Physics-based modeling, analysis, simulation, and validation of helicopter and vertical-flight aircraft.
+Development of physics-based modeling frameworks for advanced vertical-flight aircraft.
 
-`Rotor Dynamics` · `Trim Analysis` · `Stability` · `Dynamic Response` · `Flight Simulation` · `Model Validation`
+Research topics include:
 
----
+`Rotorcraft Modeling` · `Aircraft Dynamics Modeling` · `Rotor Aerodynamics` · `Modular Simulation Frameworks` · `Multi-Configuration Aircraft Modeling` · `Variable-Fidelity Modeling`
 
-## Autonomous VTOL Systems
+### Featured Project
 
-Autonomous operation of rotorcraft and VTOL aircraft in complex, uncertain, and dynamically moving environments.
+## TRAC — Texas A&M University Rotorcraft Analysis Code
 
-`Autonomous Flight` · `Ship Landing` · `Maritime VTOL` · `Trajectory Tracking` · `GPS-Denied Operations`
+TRAC is a modular computational aircraft modeling and simulation framework developed by Bochan Lee.
 
----
+The framework was designed to provide a flexible environment for modeling various vertical-flight aircraft configurations by integrating physics-based component models, nonlinear flight dynamics, and control-oriented simulation capabilities.
 
-## Guidance & Flight Control
+Demonstrated configurations include:
 
-Development and evaluation of conventional, nonlinear, optimal, and learning-based control architectures.
+- UH-60 helicopter
+- Harmony Aria coaxial rotorcraft
 
-`PID` · `Gain Scheduling` · `LQR` · `Nonlinear Control` · `Trajectory Control` · `Learning-Based Control`
+Repository:
 
----
+[TRAC / Rotorcraft Flight Dynamics Repository](repository-link)
 
-## AI & Computer Vision for Aerospace
-
-Integration of perception, state estimation, and intelligent decision-making with flight-control systems.
-
-`Computer Vision` · `Object Detection` · `Relative Pose Estimation` · `Machine Learning` · `Deep Reinforcement Learning`
 
 ---
 
-# Operational & Flight-Test Perspective
+# Aircraft Dynamics, Control & Flight Testing
 
-Operational aviation, analytical modeling, simulation, control-system development, and flight testing are treated as parts of a single aerospace engineering process:
+Development, analysis, and experimental validation of aircraft dynamic behavior and flight-control systems.
 
-**Aircraft Physics → Flight Characteristics → Modeling → Control → Simulation → Test & Evaluation → Operational Application**
+Research topics include:
 
-This approach emphasizes engineering solutions that remain meaningful beyond numerical simulation.
+`Flight Dynamics Analysis` · `Stability and Control` · `Classical Control` · `Optimal Control` · `Nonlinear Control` · `AI/Learning-Based Control` · `Flight-Test Validation`
 
-Particular attention is placed on **simulation-to-flight correlation, aircraft behavior, control-system robustness, operational constraints, and experimental validation**.
+Research activities include:
 
----
+- Nonlinear aircraft simulation
+- Control-system development
+- UAV flight experiments
+- Simulation-to-flight validation
+- Disturbance rejection and robustness evaluation
 
-# Patents
-
-## US 12,110,129
-
-### Autonomous Landing Systems and Methods for Vertical Landing Aircraft
-
-**Lead Inventor:** Bochan Lee  
-**Co-Inventor:** Moble Benedict  
-**Granted:** October 8, 2024
-
-Vision-based autonomous landing technology for vertical-flight aircraft operating in challenging and dynamically moving environments.
 
 ---
 
-## US 12,269,586
+# Computer Vision & Intelligent Perception
 
-### Hover-Capable Aircraft
+Development of perception and state-estimation technologies for autonomous aerospace systems.
 
-**Co-Inventor:** Bochan Lee  
-**Granted:** April 8, 2025
+Research topics include:
 
-Hover-capable personal-air-vehicle technology developed through advanced vertical-flight aircraft research.
+`Computer Vision` · `Object Detection` · `Relative Pose Estimation` · `Visual Navigation` · `Machine Learning` · `Deep Reinforcement Learning`
+
+Research activities include:
+
+- Vision-based relative navigation
+- Ship detection
+- Horizon-reference-bar tracking
+- Image-based position and attitude estimation
+- Vision-guided autonomous flight
+
+
+---
+
+# Autonomous VTOL Systems
+
+Integration of aircraft modeling, control, and perception technologies for autonomous vertical-flight operations.
+
+Research topics include:
+
+`Autonomous Flight` · `Guidance and Navigation` · `Maritime VTOL Operations` · `GPS-Denied Navigation` · `Moving Platform Landing`
+
+### Featured Application
+
+## Vision-Based Autonomous Ship Landing
+
+The autonomous ship-landing research integrates:
+
+- Rotorcraft flight dynamics
+- Vision-based navigation
+- Guidance and control algorithms
+- Moving-platform simulation
+- Experimental UAV flight testing
+
+The research demonstrates a complete transition from:
+
+**Aircraft Modeling → Simulation → Autonomous Control → Flight Demonstration**
+
+---
+
+# Future Research Directions
+
+Future research focuses on extending computational frameworks and autonomous flight technologies toward next-generation vertical-flight systems.
+
+Research directions include:
+
+- Multi-configuration rotorcraft modeling
+- Variable-fidelity aircraft simulation
+- Novel vertical-flight aircraft configurations
+- AI-enhanced flight control
+- Learning-based autonomy
+- Simulation-to-flight transfer
+- Intelligent aircraft test and evaluation
 
 ---
 
 # Selected Publications
 
-### 2025
+## Development and Validation of a Comprehensive Helicopter Flight Dynamics Code
 
-**Robust Reinforcement Learning Control for Vision-Based Ship Landing of VTOL-UAVs**  
-*Journal of the American Helicopter Society, 70(2)*
-
-Robust reinforcement-learning control for vision-based autonomous VTOL ship landing under environmental disturbances.
-
----
-
-### 2023
-
-**Development of “Aria,” a Compact, Quiet Personal Electric Helicopter**  
-*Journal of the American Helicopter Society, 68(4)*
-
-Design, modeling, development, and flight testing of a compact coaxial electric personal air vehicle.
-
----
-
-**Intelligent Vision-Based Autonomous Ship Landing of VTOL UAVs**  
-*Journal of the American Helicopter Society, 68(2)*
-
-Integrated machine vision, relative navigation, nonlinear control, and flight testing for autonomous ship landing.
-
----
-
-### 2022
-
-**Biomimetic Adaptive Airframe Technology (BAAT) for Rotorcraft Design and Optimization**  
-*VFS 78th Annual Forum*
-
-Rotorcraft design and optimization research involving adaptive-airframe concepts.
-
----
-
-### 2021
-
-**Machine Learning Vision and Nonlinear Control Approach for Autonomous Ship Landing of Vertical Flight Aircraft**  
-*VFS 77th Annual Forum*
-
-Machine-learning-based long-range perception combined with close-range visual navigation and nonlinear flight control.
-
----
-
-**A Deep Reinforcement Learning Control Strategy for Vision-Based Ship Landing of Vertical Flight Aircraft**  
-*AIAA AVIATION Forum*
-
-Deep reinforcement-learning control for autonomous ship landing under moving-deck and wind-disturbance conditions.
-
----
-
-### 2020
-
-**A Vision-Based Control Method for Autonomous Landing of Vertical Flight Aircraft on a Moving Platform Without Using GPS**  
-*VFS 76th Annual Forum*
-
-Vision-based relative navigation and autonomous control for VTOL landing on moving platforms.
-
----
-
-**Development and Validation of a Comprehensive Helicopter Flight Dynamics Code**  
-*AIAA SciTech Forum*
+*AIAA SciTech Forum, 2020*
 
 Development and validation of TRAC using comprehensive UH-60 modeling and U.S. Army flight-test data.
 
 ---
 
-### Graduate Research
+## Intelligent Vision-Based Autonomous Ship Landing of VTOL UAVs
 
-**On the Complete Automation of Vertical Flight Aircraft Ship Landing**  
-Ph.D. Dissertation, Texas A&M University, 2021
+*Journal of the American Helicopter Society, 2023*
 
-**Helicopter Autonomous Ship Landing System**  
-M.S. Thesis, Texas A&M University, 2018
-
-Full publication record available through **Google Scholar**.
+Integrated computer vision, relative navigation, nonlinear control, and flight testing for autonomous ship landing.
 
 ---
 
-# Awards & Recognition
+## Development of “Aria,” a Compact, Quiet Personal Electric Helicopter
 
-- **Best Paper Award in eVTOL / Vehicle Design — VFS 77th Annual Forum**
-- **Ph.D. Graduate Excellence Fellowship — Texas A&M University**
-- **Robert L. Lichten Award — 2nd Place**
-- **Boeing GoFly Prize — Phase II Winner**
-- **Boeing GoFly Prize — Phase I Winner**
-- **Barry J. Baskett Scholarship — Vertical Flight Foundation**
-- **Wei Chong (Ben) Sim Memorial Scholarship — Vertical Flight Foundation**
+*Journal of the American Helicopter Society, 2023*
+
+Design, modeling, development, and flight testing of a compact coaxial electric personal air vehicle.
 
 ---
 
-# Academic Service
+# Patents
 
-### Journal Peer Review
+## Autonomous Landing Systems and Methods for Vertical Landing Aircraft
 
-**27 completed reviews across six journals**
+Lead Inventor: Bochan Lee
 
-- Pattern Recognition
-- Aerospace Science and Technology
-- Journal of Aircraft
-- Neurocomputing
-- Robotics and Autonomous Systems
-- Ain Shams Engineering Journal
+Vision-based autonomous landing technology for vertical-flight aircraft operating in dynamic environments.
+
+
+## Hover-Capable Aircraft
+
+Co-Inventor: Bochan Lee
+
+Hover-capable personal air vehicle technology developed through advanced vertical-flight research.
 
 ---
 
 # Technical Expertise
 
-### Flight Sciences
+### Aircraft Modeling
 
-`Rotorcraft Flight Dynamics` · `Rotor Aerodynamics` · `Aircraft Dynamics` · `Stability & Control` · `Flight Testing`
+`Rotorcraft Flight Dynamics`
+`Rotor Aerodynamics`
+`Aircraft Modeling`
+`Numerical Simulation`
+`Trim Analysis`
+`Linearization`
 
-### Modeling & Simulation
+### Flight Control
 
-`Nonlinear Modeling` · `Numerical Simulation` · `Trim Analysis` · `Linearization` · `Flight Simulation`
-
-### Autonomous Systems
-
-`VTOL Autonomy` · `Guidance` · `Navigation` · `Autonomous Landing` · `Moving-Platform Tracking`
+`Classical Control`
+`Optimal Control`
+`Nonlinear Control`
+`AI/Learning-Based Control`
+`Autonomous Guidance`
 
 ### Intelligent Systems
 
-`Computer Vision` · `Machine Learning` · `Reinforcement Learning` · `Object Detection` · `Visual Navigation`
+`Computer Vision`
+`Machine Learning`
+`Deep Reinforcement Learning`
+`Visual Navigation`
 
-### Computational Tools
+### Flight Testing
 
-`MATLAB` · `Python` · `C++` · `LabVIEW` · `OpenCV` · `Arduino` · `Gazebo` · `X-Plane`
-
----
-
-# Selected Professional Experience
-
-### Naval Aircraft Test & Evaluation Officer
-**Joint Chiefs of Staff, South Korea**  
-2026–Present
-
-Aircraft test, evaluation, and operational capability assessment.
-
-### Unmanned Aerial Vehicle Program Manager
-**Republic of Korea Navy Headquarters**
-
-Program management for unmanned aerial systems and future naval aviation capabilities.
-
-### Graduate Research Assistant
-**Advanced Vertical Flight Laboratory**
-
-Research in rotorcraft flight dynamics, flight control, autonomous VTOL systems, computer vision, machine learning, and flight testing.
-
-### Co-Founder / Flight Simulation & Test Safety Lead
-**Harmony Aeronautics — Boeing GoFly Prize**
-
-Flight-dynamics modeling, simulation, and flight-test safety for the Harmony Aria personal aerial vehicle.
-
-### UH-60 Helicopter Pilot
-**Republic of Korea Navy**
-
-Operational rotary-wing aviation with specialization in maritime missions.
+`UAV Flight Testing`
+`Simulation-to-Flight Validation`
+`Aircraft Test & Evaluation`
 
 ---
 
-# Education
+# Research Philosophy
 
-### Texas A&M University
+The research approach follows:
 
-**Ph.D., Aerospace Engineering**  
-2018–2021
+**Model → Simulate → Control → Test → Validate**
 
-Research areas:
-
-`Rotorcraft Flight Dynamics` · `Autonomous Ship Landing` · `Flight Control` · `Computer Vision` · `Reinforcement Learning` · `Flight Testing`
-
----
-
-### Texas A&M University
-
-**M.S., Aerospace Engineering**  
-2016–2018
-
-Research areas:
-
-`Helicopter Flight Dynamics` · `UH-60 Modeling & Simulation` · `Autonomous Ship Landing`
-
----
-
-### Republic of Korea Naval Academy
-
-**B.S., Operations Research**  
-**B.S., Military Science**  
-2006–2010
-
----
-
-# Research Direction
-
-Research activities are directed toward **intelligent, reliable, and operationally relevant vertical-flight systems** through the integration of:
-
-**Physics-Based Modeling → Perception → State Estimation → Guidance & Control → Machine Learning → Flight-Test Validation**
-
-Primary application areas include:
-
-- next-generation rotorcraft
-- autonomous VTOL systems
-- maritime aviation
-- intelligent flight control
-- GPS-denied navigation
-- autonomous landing
-- simulation-to-flight transfer
-- aircraft test and evaluation
+The objective is to develop intelligent vertical-flight systems that maintain both analytical rigor and operational relevance.
 
 ---
 
 <p align="center">
-  <strong>From Rotorcraft Dynamics to Autonomous Flight</strong>
-</p>
-
-<p align="center">
-  Model · Simulate · Control · Test · Validate
+<strong>From Aircraft Dynamics to Autonomous Flight</strong>
 </p>
